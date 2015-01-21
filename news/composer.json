@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php-activerecord/php-activerecord": "dev-master",
+        "rsky/pear-pager": "dev-master",
+        "rsky/pear-core-min": "dev-master",
+        "smottt/wideimage": "dev-master",
+        "phpdocumentor/phpdocumentor": "dev-develop",
+        "phpmailer/phpmailer": "v5.2.7",
+        "phpunit/phpunit": "3.7.28"
+    }
+}
